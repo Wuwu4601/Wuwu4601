@@ -1,4 +1,4 @@
 # Hi, I'am Alex.
 
-And... I don't know what to put here.
+I'm just a Chinese guy who wants to be a developer.
 
